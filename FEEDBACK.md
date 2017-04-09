@@ -1,6 +1,8 @@
 In-class assignment feedback
 
-Grade: 0/10
+Grade: 10/10
 
 Nothing in this repository!
+
+Amended:  commit made.
 
